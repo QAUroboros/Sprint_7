@@ -1,5 +1,5 @@
 import pytest
-from utils.helpers import register_courier_and_return_password
+from helpers import register_courier_and_return_password
 
 
 @pytest.fixture(scope='session')

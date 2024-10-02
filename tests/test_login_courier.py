@@ -1,7 +1,7 @@
 import pytest
 import requests
 import allure
-from utils.helpers import BASE_URL, generate_random_string
+from helpers import BASE_URL, generate_random_string
 
 
 class TestLoginCourier:
